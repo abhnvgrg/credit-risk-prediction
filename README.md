@@ -1,5 +1,21 @@
 # Credit Risk Prediction
 
+## Table of Contents
+
+1. [Overview](#overview)
+2. [Features](#features)
+3. [Project Structure](#project-structure)
+4. [Installation](#installation)
+5. [Usage](#usage)
+6. [Project Workflow](#project-workflow)
+7. [Results](#results)
+8. [Key Learnings](#key-learnings)
+9. [Notes](#notes)
+10. [Contributing](#contributing)
+11. [License](#license)
+
+---
+
 ## Overview
 
 This project focuses on predicting the credit risk of loan applicants using machine learning models. The goal is to classify applicants into risk categories to support better lending decisions.
@@ -26,7 +42,7 @@ The workflow includes:
 
 ## Project Structure
 
-```id="c7t2kq"
+```bash
 ├── credit-risk-prediction-training-and-eda.ipynb
 ├── README.md
 ├── requirements.txt
@@ -37,9 +53,9 @@ The workflow includes:
 
 ## Installation
 
-```bash id="a9k2dl"
-git clone https://github.com/abhnvgrg/credit-risk-prediction.git
-cd credit-risk-prediction
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
 pip install -r requirements.txt
 ```
 
@@ -47,7 +63,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-```bash id="f5p9zs"
+```bash
 jupyter notebook credit-risk-prediction-training-and-eda.ipynb
 ```
 
